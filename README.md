@@ -155,8 +155,8 @@ Dhaka, Bangladesh
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=md-kaif-hosen&show_icons=true&hide_border=true&bg_color=080B14&title_color=00E5FF&text_color=F8FAFC&icon_color=8B5CF6&ring_color=2563EB"/>
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-kaif-hosen&layout=compact&hide_border=true&bg_color=080B14&title_color=00E5FF&text_color=F8FAFC"/>
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats-three-omega-86.vercel.app/api?username=md-kaif-hosen&show_icons=true&hide_border=true&bg_color=080B14&title_color=00E5FF&text_color=F8FAFC&icon_color=8B5CF6&ring_color=2563EB"/>
+<img height="180" alt="Top Languages" src="https://github-readme-stats-three-omega-86.vercel.app/api/top-langs/?username=md-kaif-hosen&layout=compact&hide_border=true&bg_color=080B14&title_color=00E5FF&text_color=F8FAFC"/>
 
 <br/><br/>
 
@@ -170,12 +170,10 @@ Dhaka, Bangladesh
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-kaif-hosen/md-kaif-hosen/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="Snake animation of md-kaif-hosen's contribution graph" src="https://raw.githubusercontent.com/md-kaif-hosen/md-kaif-hosen/output/github-contribution-grid-snake.svg"/>
-</picture>
+<img alt="GitHub contribution graph for md-kaif-hosen" src="https://ghchart.rshah.org/00E5FF/md-kaif-hosen"/>
 
 </div>
+
 ---
 
 ## 08 · Connect With Me
